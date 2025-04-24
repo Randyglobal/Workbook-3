@@ -18,8 +18,6 @@ public class PayRollCalculator {
 
     public static void main(String[] args) {
         fileReader();
-//        Employee employee = token();
-//        assignToken(employee);
     }
     public static void fileReader(){
         try {
@@ -61,7 +59,10 @@ public class PayRollCalculator {
         name = employee.getName();
         hoursWorked = employee.getHoursWorked();
         payRate = employee.getPayRate();
-        System.out.printf("Employee Id: %s, Name: %s, Gross Pay: $%.2f%n", employeeId, name, payRate);
+        grossPay = employee.getGrossPay();
+        System.out.printf("Employee Id: %s, Name: %s, Pay Rate: $%.2f%n", employeeId, name, payRate);
+        display("Gross Pay: " + grossPay);
+        
     }
 
 
