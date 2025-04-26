@@ -62,7 +62,7 @@ public class PayRollCalculator {
         grossPay = employee.getGrossPay();
         System.out.printf("Employee Id: %s, Name: %s, Pay Rate: $%.2f%n", employeeId, name, payRate);
         display("Gross Pay: " + grossPay);
-        
+
     }
 
 

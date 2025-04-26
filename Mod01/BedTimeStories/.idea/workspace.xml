@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdf8145c-507e-4935-8c4b-a7047e861cce" name="Changes" comment="" />
+    <list default="true" id="2e3e6e9a-9f53-4530-9283-19ba50ab1e0c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2w63H8k4GUl3LIXdu3pjsOdc2a6" />
   <component name="ProjectViewState">
@@ -30,32 +23,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BedTimeStrories.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pluralsight_1\Workbook-3\Mod1\BedTimeStories\src\main\java\com\pluralsight" />
+      <recent name="C:\pluralsight_1\Workbook-3\Mod1\BedTimeStories" />
+      <recent name="C:\pluralsight_1\Workbook-3\Mod1\BedTimeStories\src\main\java" />
+      <recent name="C:\pluralsight_1\Workbook-3\Mod1\BedTimeStories\src" />
+      <recent name="C:\pluralsight_1\Workbook-3\Mod1\BedTimeStories\src\main" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bdf8145c-507e-4935-8c4b-a7047e861cce" name="Changes" comment="" />
-      <created>1745348111534</created>
+      <changelist id="2e3e6e9a-9f53-4530-9283-19ba50ab1e0c" name="Changes" comment="" />
+      <created>1745348332195</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745348111534</updated>
+      <updated>1745348332195</updated>
     </task>
     <servers />
   </component>
